@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏾, I'm Polymath Universata</h1>
+<h1 align="center">Hi 👋🏾, I'm John Koiyaki/h1>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Polymath%20Universata&fontSize=35&fontAlign=50&fontColor=ffffff" />
 </p>
@@ -10,7 +10,7 @@
 ---
 
 ### 🧠 About Me
-- 🔭 Currently building: **[MagiPima Quiz Platform](https://github.com/polymathuniversata/NagiPima)**  
+- 🔭 Currently building: **[NagiPima Quiz Platform](https://github.com/polymathuniversata/NagiPima)**  
 - 🌍 Based in: Kenya / Tanzania  
 - 🎓 Background: Law, Technical Writing, Web3 Advocacy  
 - ⚒️ Tech Stack: Python · Django · JavaScript · MySQL · TailwindCSS  
@@ -23,7 +23,7 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔗 [NagiPima](https://github.com/polymathuniversata/MagiPima) | Smart quiz platform with NLP + RAG features |
+| 🔗 [NagiPima](https://github.com/polymathuniversata/NagiPima) | Smart quiz platform with NLP + RAG features |
 | 🐍 [SnakeMiniApp](https://github.com/polymathuniversata/SnakeMiniApp) | Telegram-based snake game using Mini Apps |
 | 🏫 [School Manager](https://github.com/polymathuniversata/school-management-system) | Full Django system for school admin, teachers, students |
 | 🤖 [GitHub Bot](https://github.com/polymathuniversata/github-bot) | A bot to track repo updates of selected devs |
