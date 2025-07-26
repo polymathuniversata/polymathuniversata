@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋🏾, I'm John Koiyaki/h1>
+<h1 align="center">Hi 👋🏾, I'm John Koiyaki</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Polymath%20Universata&fontSize=35&fontAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=John%20UKoiyaki&fontSize=35&fontAlign=50&fontColor=ffffff" />
 </p>
 
 <p align="center">
