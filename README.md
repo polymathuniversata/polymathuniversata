@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋🏾, I'm John Koiyaki</h1>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=John%20Koiyaki&fontSize=35&fontAlign=50&fontColor=ffffff" />
-</p>
 
 <p align="center">
   <em>Creative Technologist | Software Developer | Emerging Tech Educator | Vibe Coder</em>
