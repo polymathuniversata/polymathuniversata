@@ -10,7 +10,7 @@
 ---
 
 ### 🧠 About Me
-- 🔭 Currently building: **[MagiPima Quiz Platform](https://github.com/polymathuniversata/MagiPima)**  
+- 🔭 Currently building: **[MagiPima Quiz Platform](https://github.com/polymathuniversata/NagiPima)**  
 - 🌍 Based in: Kenya / Tanzania  
 - 🎓 Background: Law, Technical Writing, Web3 Advocacy  
 - ⚒️ Tech Stack: Python · Django · JavaScript · MySQL · TailwindCSS  
