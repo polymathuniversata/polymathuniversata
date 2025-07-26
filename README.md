@@ -12,7 +12,7 @@
 ### 🧠 About Me
 - 🔭 Currently building: **[NagiPima Quiz Platform](https://github.com/polymathuniversata/NajiPima)**  
 - 🌍 Based in: Kenya / Tanzania  
-- 🎓 Background: Law, Technical Writing, Web3 Advocacy  
+- 🎓 Background: ICT, Technical Writing, Web3 Advocacy  
 - ⚒️ Tech Stack: Python · Django · JavaScript · MySQL · TailwindCSS  
 - 🧩 Interests: EdTech, Telegram Mini Apps, Blockchain Utility, AI + RAG  
 - 🧠 Fun Fact: I believe in building tools that *scale knowledge and culture*.
