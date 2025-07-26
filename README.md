@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋🏾, I'm John Koiyaki</h1>
-
 <p align="center">
   <em>Creative Technologist | Software Developer | Emerging Tech Educator | Vibe Coder</em>
 </p>
