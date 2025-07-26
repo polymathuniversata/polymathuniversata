@@ -4,13 +4,13 @@
 </p>
 
 <p align="center">
-  <em>Creative Technologist | Software Developer | Emerging Tech Educator | African Builder</em>
+  <em>Creative Technologist | Software Developer | Emerging Tech Educator | Vibe Coder</em>
 </p>
 
 ---
 
 ### 🧠 About Me
-- 🔭 Currently building: **[NagiPima Quiz Platform](https://github.com/polymathuniversata/NagiPima)**  
+- 🔭 Currently building: **[NagiPima Quiz Platform](https://github.com/polymathuniversata/NajiPima)**  
 - 🌍 Based in: Kenya / Tanzania  
 - 🎓 Background: Law, Technical Writing, Web3 Advocacy  
 - ⚒️ Tech Stack: Python · Django · JavaScript · MySQL · TailwindCSS  
