@@ -5,8 +5,8 @@
 ---
 
 ### 🧠 About Me
-- 🔭 Currently building: **[NagiPima Quiz Platform](https://github.com/polymathuniversata/NajiPima)**  
-- 🌍 Based in: Kenya / Tanzania  
+- 🔭 Currently building: **[Crypto Chap]([https://github.com/polymathuniversata/cryptochap])**  
+- 🌍 Based in: Kenya  
 - 🎓 Background: ICT, Technical Writing, Web3 Advocacy
 - 🧩 Interests: EdTech, Telegram Mini Apps, Blockchain Utility, AI + RAG  
 - 🧠 Fun Fact: I believe in building tools that *scale knowledge and culture*.
@@ -31,7 +31,7 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔗 [NagiPima](https://github.com/polymathuniversata/NagiPima) | Smart quiz platform with NLP + RAG features |
+| 🔗 [Crypto Chap]([https://github.com/polymathuniversata/cryptochap]) | Smart quiz platform with NLP + RAG features |
 | 🐍 [SnakeMiniApp](https://github.com/polymathuniversata/SnakeMiniApp) | Telegram-based snake game using Mini Apps |
 | 🏫 [School Manager](https://github.com/polymathuniversata/school-management-system) | Full Django system for school admin, teachers, students |
 | 🤖 [GitHub Bot](https://github.com/polymathuniversata/github-bot) | A bot to track repo updates of selected devs |
